@@ -85,7 +85,7 @@ OBJECT_SHARED Models/Airport/meteoradar.ac -55.2047609 5.4486778 16.07 0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac -55.2055778 5.4541002 14.91 176
 OBJECT_SHARED Models/Airport/building-office.xml -55.1993893 5.4558888 17.02 1.2
 OBJECT_SHARED Models/Airport/TW_EPLB.xml -55.1986756 5.4564032 20.04 0
-OBJECT_SHARED Models/Residential/french_house_w.ac -55.2057936 5.4548853 15.21 0
+OBJECT_SHARED Models/Residential/french_house_w.xml -55.2057936 5.4548853 15.21 0
 OBJECT_SHARED Models/Transport/pickupred1.ac -55.2055903 5.4538955 14.69 266.8
 OBJECT_SHARED Models/Effects/nightlight10000.xml -55.2391399 5.453586 19.4 0
 OBJECT_SHARED Models/Effects/nightlight10000.xml -55.2390764 5.4537714 19.59 0
